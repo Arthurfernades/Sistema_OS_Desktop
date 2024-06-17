@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.A5</groupId>
 	<artifactId>SistemaOS</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.0-SNAPSHOT</version>
 	<name>SistemaOS</name>
 	<description>Sistema OS Desktop</description>
 	<properties>

@@ -26,7 +26,7 @@ public abstract class Usuario {
 
     private String email;
 
-//    private ArrayList<OrdemServico> OS;
+//    private ArrayList<OrdemServico> NovoChamado;
 
 //    public abstract void addCliente(Cliente cliente);
 //
